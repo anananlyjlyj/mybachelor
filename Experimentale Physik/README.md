@@ -1,12 +1,12 @@
 # Experimentale Physik
 
-## Ex1: Mechanik & Thermodynamik
+## 16WS: Ex1: Mechanik & Thermodynamik
 
-## Ex2: Elektromagnet
+## 17SS: Ex2: Elektromagnet
 
-## Ex3: Quantenmechanik
+## 17WS: Ex3: Quantenmechanik
 
-## Ex4: Kern- und Teilchenphysik
+## 18SS: Ex4: Kern- und Teilchenphysik
 
-## Ex5: Molekül- und Festkörperphysik
+## 18WS: Ex5: Molekül- und Festkörperphysik
 
