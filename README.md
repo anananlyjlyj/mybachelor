@@ -1,4 +1,2 @@
-# mybachelor
-Collection of almost 3 years study of physics &amp; some mathematics &amp; some cs.
-
-It also contains some courses I learned online in vacation.
+# mybachelor/Astronomy
+Here is the collection of all staffs in astronomy.

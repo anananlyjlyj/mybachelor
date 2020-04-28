@@ -1,6 +1,0 @@
-## Ex2: Elektromagnet
-
-
-
-
-

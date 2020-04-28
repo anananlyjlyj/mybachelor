@@ -1,8 +1,0 @@
-## Ex3: Quantenmechanik
-
-
-
-
-
-
-
