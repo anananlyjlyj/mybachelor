@@ -3,7 +3,7 @@ Here is the collection of solution to exercise problems in lecture Cosmology (co
 
 
 
-[Illustris TNG](https://www.tng-project.org/data/docs/specifications/#sec1a) data visualisation and basic analyse: 
+## [Illustris TNG](https://www.tng-project.org/data/docs/specifications/#sec1a) data visualisation and basic analyse: 
 
 * visualize haloes: **Ex 1.1**
 * visualize dark matter distribution within haloes: **Ex 1.2**
@@ -15,7 +15,7 @@ Here is the collection of solution to exercise problems in lecture Cosmology (co
 
 
 
-Halo mass function:
+## Halo mass function:
 
 * analytical v.s. numerical formulas for the dark-matter halo mass fucntions: **Ex 4.3**
   * Press&Schechter 1974, Sheth&Tormen 1999, Tinker et al. 2008
@@ -23,7 +23,7 @@ Halo mass function:
 
 
 
-Cosmological Calculator (quantities as a function of redshift z)
+## Cosmological Calculator (quantities as a function of redshift z)
 
 in the scenario of Omega_m = 0.3 (low density Universe) , 0.7, 1;  in LCDM; in Einstein-deSitter Universe
 
@@ -37,7 +37,7 @@ a calculator [reference](https://lambda.gsfc.nasa.gov/toolbox/tb_camb_form.cfm)
 
 
 
-Age and distances of the Universe
+## Age and distances of the Universe
 
 * Three equivalence epochs in LCDM, radiation, matter, dark-energy dominated eras: **Ex 2.2**
 
